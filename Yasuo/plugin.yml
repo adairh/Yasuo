@@ -1,0 +1,6 @@
+main: net.wdlvn.yasuo.main
+version: 1.0
+name: Yasuo
+author: adairh
+commands:
+  yasuo:

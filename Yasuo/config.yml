@@ -1,0 +1,5 @@
+Message: '&4&l&nHASAGHI'
+Damage: 10
+CoolDown.Duration: 10
+CoolDown.Message: '&6&lBạn cần chờ đủ &f&l%s%&6&l giây'
+CoolDown.End: '&a&lĐã hồi chiêu'
